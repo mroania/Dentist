@@ -1,0 +1,15 @@
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\bin\Debug\net6.0\Dentist.Domain.deps.json
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\bin\Debug\net6.0\Dentist.Domain.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\bin\Debug\net6.0\Dentist.Domain.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\bin\Debug\net6.0\Dentist.Common.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\bin\Debug\net6.0\Dentist.Common.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.csproj.AssemblyReference.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.AssemblyInfoInputs.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.AssemblyInfo.cs
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.csproj.CoreCompileInputs.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.csproj.CopyComplete
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\refint\Dentist.Domain.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\Dentist.Domain.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.Domain\obj\Debug\net6.0\ref\Dentist.Domain.dll

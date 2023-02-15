@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dentist.Domain/1.0.0": {
+        "dependencies": {
+          "Dentist.Common": "1.0.0"
+        },
+        "runtime": {
+          "Dentist.Domain.dll": {}
+        }
+      },
+      "Dentist.Common/1.0.0": {
+        "runtime": {
+          "Dentist.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dentist.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dentist.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

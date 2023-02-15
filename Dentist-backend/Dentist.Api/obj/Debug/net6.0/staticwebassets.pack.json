@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\GitHub\\Dentist\\Dentist-backend\\Dentist.Api\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\GitHub\\Dentist\\Dentist-backend\\Dentist.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\GitHub\\Dentist\\Dentist-backend\\Dentist.Api\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Dentist.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Dentist.Api.props",
+      "PackagePath": "build\\Dentist.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Dentist.Api.props",
+      "PackagePath": "buildMultiTargeting\\Dentist.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Dentist.Api.props",
+      "PackagePath": "buildTransitive\\Dentist.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

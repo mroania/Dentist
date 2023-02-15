@@ -1,0 +1,17 @@
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.IServices.deps.json
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.IServices.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.IServices.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.Common.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.Domain.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.Common.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\bin\Debug\net6.0\Dentist.Domain.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.csproj.AssemblyReference.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.AssemblyInfoInputs.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.AssemblyInfo.cs
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.csproj.CoreCompileInputs.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.csproj.CopyComplete
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\refint\Dentist.IServices.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\Dentist.IServices.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.IServices\obj\Debug\net6.0\ref\Dentist.IServices.dll

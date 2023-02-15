@@ -1,0 +1,169 @@
+{
+	"info": {
+		"_postman_id": "ef9de101-1b03-4acd-b5e8-c80bd70455b1",
+		"name": "dentist-front",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "add_patient",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"PatientName\":\"Andrzej\",\r\n\"PatientSurname\":\"Niewiem\",\r\n\"Gender\":0,\r\n\"Pesel\":66656425385,\r\n\"BirthDate\":\"1999-04-04T00:00:00\",\r\n\"Phone\":225553587,\r\n\"Email\":\"s.nwm@o2.pl\",\r\n\"City\":\"City5\",\r\n\"Street\":\"Baker\",\r\n\"HouseNumber\":22\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/v2/patient/add",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v2",
+						"patient",
+						"add"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "edit patient",
+			"request": {
+				"method": "PATCH",
+				"header": [
+					{
+						"key": "ty",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"PatientName\":\"Krzyś\",\r\n\"PatientSurname\":\"Niewiem\",\r\n\"Gender\":0,\r\n\"Pesel\":12356425385,\r\n\"BirthDate\":\"1999-04-04T00:00:00\",\r\n\"Phone\":225553587,\r\n\"Email\":\"salama.hassona@o2.pl\",\r\n\"City\":\"City1\",\r\n\"Street\":\"Baker\",\r\n\"HouseNumber\":22\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/v2/patient/edit/5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v2",
+						"patient",
+						"edit",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete patient",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v2/patient/remove/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v2",
+						"patient",
+						"remove",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get patient id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v2/patient/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v2",
+						"patient",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get patient pesel",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v2/patient/pesel/12345678912",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v2",
+						"patient",
+						"pesel",
+						"12345678912"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get patient all",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v2/patient/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v2",
+						"patient",
+						"all"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

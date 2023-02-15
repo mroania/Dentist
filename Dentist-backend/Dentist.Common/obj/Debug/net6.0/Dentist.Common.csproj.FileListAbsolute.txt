@@ -1,0 +1,12 @@
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\bin\Debug\net6.0\Dentist.Common.deps.json
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\bin\Debug\net6.0\Dentist.Common.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\bin\Debug\net6.0\Dentist.Common.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.csproj.AssemblyReference.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.AssemblyInfoInputs.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.AssemblyInfo.cs
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.csproj.CoreCompileInputs.cache
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\refint\Dentist.Common.dll
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\Dentist.Common.pdb
+F:\GitHub\Dentist\Dentist-backend\Dentist.Common\obj\Debug\net6.0\ref\Dentist.Common.dll
