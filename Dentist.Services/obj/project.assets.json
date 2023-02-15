@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dentist.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dentist.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dentist.Common.dll": {}
+        }
+      },
+      "Dentist.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dentist.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dentist.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dentist.Domain.dll": {}
+        }
+      },
+      "Dentist.IData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dentist.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dentist.IData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dentist.IData.dll": {}
+        }
+      },
+      "Dentist.IServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dentist.Common": "1.0.0",
+          "Dentist.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dentist.IServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dentist.IServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dentist.Common/1.0.0": {
+      "type": "project",
+      "path": "../Dentist.Common/Dentist.Common.csproj",
+      "msbuildProject": "../Dentist.Common/Dentist.Common.csproj"
+    },
+    "Dentist.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Dentist.Domain/Dentist.Domain.csproj",
+      "msbuildProject": "../Dentist.Domain/Dentist.Domain.csproj"
+    },
+    "Dentist.IData/1.0.0": {
+      "type": "project",
+      "path": "../Dentist.IData/Dentist.IData.csproj",
+      "msbuildProject": "../Dentist.IData/Dentist.IData.csproj"
+    },
+    "Dentist.IServices/1.0.0": {
+      "type": "project",
+      "path": "../Dentist.IServices/Dentist.IServices.csproj",
+      "msbuildProject": "../Dentist.IServices/Dentist.IServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Dentist.Domain >= 1.0.0",
+      "Dentist.IData >= 1.0.0",
+      "Dentist.IServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ania\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\GitHub\\Dentist\\Dentist.Services\\Dentist.Services.csproj",
+      "projectName": "Dentist.Services",
+      "projectPath": "F:\\GitHub\\Dentist\\Dentist.Services\\Dentist.Services.csproj",
+      "packagesPath": "C:\\Users\\Ania\\.nuget\\packages\\",
+      "outputPath": "F:\\GitHub\\Dentist\\Dentist.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ania\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\GitHub\\Dentist\\Dentist.Domain\\Dentist.Domain.csproj": {
+              "projectPath": "F:\\GitHub\\Dentist\\Dentist.Domain\\Dentist.Domain.csproj"
+            },
+            "F:\\GitHub\\Dentist\\Dentist.IData\\Dentist.IData.csproj": {
+              "projectPath": "F:\\GitHub\\Dentist\\Dentist.IData\\Dentist.IData.csproj"
+            },
+            "F:\\GitHub\\Dentist\\Dentist.IServices\\Dentist.IServices.csproj": {
+              "projectPath": "F:\\GitHub\\Dentist\\Dentist.IServices\\Dentist.IServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
